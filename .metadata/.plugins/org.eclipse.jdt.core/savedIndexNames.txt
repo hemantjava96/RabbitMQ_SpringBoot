@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\Learning\Preparation\RabbitMQ_SpringBoot\.metadata\.plugins\org.eclipse.jdt.core
+2718873461.index
+1865797976.index
+4193851487.index
